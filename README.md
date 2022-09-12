@@ -1,5 +1,3 @@
-![Web Developer](https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/278474742_1381627259003114_1652929249317738425_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeH8vhTMGa1GpxrMNtfQE62CpFlszPEbAPGkWWzM8RsA8TOwm60UTc8L9oDs2CAhKz7SE0Xi1xZTeCCm6W7Xmr7c&_nc_ohc=wya0o-lP47YAX9uJ74N&_nc_ht=scontent.fdac5-1.fna&oh=00_AT-w32_sBE1NU7xJwFR_7C_SeEBC3qgyweskTfKJtRGd_A&oe=632342F8)
-
 ### Hi there 👋, I'm Amiruzzaman 
 #### Web Developer
 
